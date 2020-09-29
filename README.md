@@ -1,2 +1,2 @@
 # my-site
-learnin HTML, CSS, JS
+learning HTML, CSS, JS
